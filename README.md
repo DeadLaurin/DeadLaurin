@@ -13,6 +13,8 @@
 ### ⭐ Recent Stars
 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - Docker Image to run Steam Headless on a server for remote gaming
+- [mov-cli/mov-cli](https://github.com/mov-cli/mov-cli) - cli tool to watch any type of media through your terminal
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DeadLaurin&icon=0&color=0)](https://visitcount.itsvg.in)
