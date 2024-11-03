@@ -9,6 +9,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [DeadLaurin/CompressVideo](https://github.com/DeadLaurin/CompressVideo) - A bash script to recursively convert all your x264 videos to x265.
+- [DeadLaurin/EncodeAudio](https://github.com/DeadLaurin/EncodeAudio) - A bash script to encode audio files to multiple formats in the current set directory.
 
 ### ⭐ Recent Stars
 
